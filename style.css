@@ -4,8 +4,8 @@ body{
 }
 
 .btn{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border: 2px solid black;
     border-radius: 20%;
     margin: 1rem;
@@ -25,4 +25,15 @@ body{
 }
 .blue{
     background-color: blue;
+}
+
+.flash{
+ background-color: white;   
+}
+.userflash{
+    background-color: pink;
+}
+
+.reset{
+    background-color: red;
 }
